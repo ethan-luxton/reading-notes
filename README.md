@@ -22,10 +22,10 @@ Markdown Notes:
 
     Learning markdown syntax
 
-    "#" for bold and header text
-    "!" for links
-    Code snippets
-    Image links and hyperlinks
-    Github features and resources
-    GitHub Pages
-
+    1. "#" for bold and header text
+    2. "!" for links
+    3. Code snippets
+    4. Image links and hyperlinks
+    5. Github features and resources
+    6. GitHub Pages
+    7. Markdown syntax is fairly similar to other markdown methods used in other programs. Microsoft Word, Adobe Suites, etc.
