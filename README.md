@@ -17,3 +17,15 @@ print("Coding is fun :)")
 ```
 
 [Cant wait to start the rest of this coding journey](https://www.codefellows.com) 
+
+Markdown Notes:
+
+    Learning markdown syntax
+
+    "#" for bold and header text
+    "!" for links
+    Code snippets
+    Image links and hyperlinks
+    Github features and resources
+    GitHub Pages
+
