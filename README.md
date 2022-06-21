@@ -1,4 +1,6 @@
-## Welcome to Ethan Luxton's Codefellows 102 Course page
+## Welcome to my Codefellows 102 Course page
+
+My name is Ethan Luxton, I am currently learning web development and programming through CodeFellows. You can take a look at my [GitHub Portfolio](https://github.com/ethan-luxton), or find me on [LinkedIn](https://www.linkedin.com/in/ethan-luxton/).
 
 ### Growth Mindset
 
