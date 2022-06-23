@@ -1,3 +1,5 @@
+## Lab 01 Notes
+
 ### Growth Mindset
 
 * Growth mindset is the practice of actively trying, and succeding or failing, at learning new things. And constantly trying to learn new things regardless of how impractical or impossible it seems.
@@ -25,3 +27,6 @@ Markdown Notes:
     5. Github features and resources
     6. GitHub Pages
     7. Markdown syntax is fairly similar to other markdown methods used in other programs. Microsoft Word, Adobe Suites, etc.
+
+
+[Back to main page](README.md)

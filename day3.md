@@ -1,4 +1,4 @@
-## Introduction to Git
+## Introduction to Git (Lab 03 Notes)
 
 Git is an amazing way (and the industry standard way) of cloning, pushing, pulling and commiting changes to code. But, what are the changes made by clone, pull, push or commit?
 
@@ -43,3 +43,5 @@ git add . (the . represents all files)
 ```
 
 To summarize, changes made to a GitHub repository locally must be (saved on the users local file) added to the git repository locally, commited to the repository and pushed to the GitHub repository before it shows up online. 
+
+[Back to main page](README.md)

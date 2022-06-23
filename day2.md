@@ -31,3 +31,5 @@ Text editors vary based on user preference and industry/company standard. The be
 2. Notepad++
 3. ATOM
 4. CodeWrangler (for Mac users)
+
+[Back to main page](README.md)
