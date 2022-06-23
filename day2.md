@@ -1,3 +1,4 @@
+
 ## Lab 02 Notes
 
 > Writing the code is the easy part, the preperations take the most time.

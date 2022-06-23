@@ -1,3 +1,4 @@
+
 ## Lab 01 Notes
 
 ### Growth Mindset

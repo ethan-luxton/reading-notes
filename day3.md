@@ -1,3 +1,4 @@
+
 ## Introduction to Git (Lab 03 Notes)
 
 Git is an amazing way (and the industry standard way) of cloning, pushing, pulling and commiting changes to code. But, what are the changes made by clone, pull, push or commit?
