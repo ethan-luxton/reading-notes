@@ -7,3 +7,4 @@ My name is Ethan Luxton, I am currently learning web development and programming
 1. [Day 1 Notes](day1.md)
 2. [Day 2 Notes](day2.md)
 3. [Day 3 Notes](day3.md)
+4. [Day 4 Notes](day4.md)
