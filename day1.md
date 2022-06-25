@@ -21,7 +21,7 @@ Markdown Notes:
 
     Learning markdown syntax
 
-    1. "#" for bold and header text
+    1. "#" for bold and header text.
     2. "!" for links
     3. Code snippets
     4. Image links and hyperlinks
