@@ -20,6 +20,6 @@ My name is Ethan Luxton, I am currently learning web development and programming
 **Week 1**
 
 1. [Day 1 Notes](201-day1.md)
-
+2. [Day 2 Notes](201-day2.md)
 
 
