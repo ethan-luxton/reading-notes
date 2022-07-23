@@ -23,4 +23,5 @@ My name is Ethan Luxton, I am currently learning web development and programming
 2. [Day 2 Notes](201-day2.md)
 3. [Day 3 Notes](201-day3.md)
 4. [Day 4 Notes](201-day4.md)
+5. [Day 5 Notes](201-day5.md)
 
